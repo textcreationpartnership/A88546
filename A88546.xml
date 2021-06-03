@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lord Lambert's letter to the speaker.</title>
+            <author>Lambert, John, 1619-1683.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88546</idno><idno type="EEBO-CITATION">99867021</idno>
+  <idno type="VID">119311</idno>
+  <idno type="EEBO-PROQUEST">2240922098</idno>
+  
+            <idno type="STC">Wing L3048</idno>
+            <idno type="STC">Thomason E1013_1</idno>
+            <idno type="STC">ESTC R208014</idno>
+            <idno type="PROQUEST">99867021</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99867021e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88546)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119311)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 150:E1013[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lord Lambert's letter to the speaker.</title>
+                  <author>Lambert, John, 1619-1683.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year of our Lord. 1659 [i.e. 1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "January. 3.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119311:1"/>
+            <pb facs="tcp:119311:1"/>
+            <p>THE Lord LAMBERT'S LETTER TO THE SPEAKER</p>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year of our Lord. 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:119311:2"/>
+            <pb n="3" facs="tcp:119311:2"/>
+            <head>THE Lord LAMBERT▪S LETTER To the SPEAKER.</head>
+            <opener>
+               <salute>Mr. Speaker,</salute>
+            </opener>
+            <p>I Have heard, to the great grief and sorrow of my heart, God knows, how that the Lord hath once again restored you, and the rest of the Old Members, to the <hi>Exercise of your Trust,</hi> for all my Lord <hi>Fleetwood</hi> and I so often fasted and prayed, and so fervently intreated him to the con<g ref="char:EOLhyphen"/>trary. Truly you have as much reason to thank God as any men I know in the world, and I have as little, unless I should thank him for nothing. For you may talk what you will of <hi>Gods afflicting his own children, and that it is good to be in affliction:</hi> truly, Mr. Speaker, if you and the rest of the Mem<g ref="char:EOLhyphen"/>bers like it so well, even take it among ye, and be you as you were, and let me be as I would be. Tru<g ref="char:EOLhyphen"/>ly,
+<pb n="4" facs="tcp:119311:3"/>Mr. Speaker, I am in a Pound, the Lord in his good time Replevin me out of it. I confess I did turn you and the rest of the Members now sitting out of the House, but I did it with a good intent; for it was to take the Burthen of the Common<g ref="char:EOLhyphen"/>wealth off from your shoulders: but they themselves have taken it upon them again, there<g ref="char:EOLhyphen"/>fore let them not blame mee if ever it oppress them. Now then seeing that they are by the Di<g ref="char:EOLhyphen"/>vine Providence of God, and their own policy, leapt again into the Saddle, (for you must know that God never assists any but those that are ve<g ref="char:EOLhyphen"/>ry cunning, and therefore he assisted the Old Protector, being more cunning then they, and for these two moneths he hath assisted me, be<g ref="char:EOLhyphen"/>cause I was too cunning for them likewise, and now he assisteth them as being too politick for me) I say therefore, as I said before, that seeing they are by the assistance of God, and their own policy, leapt again into the Saddle, I have here taken an occasion to write unto you, earnestly entreating you to speak a good word for me.</p>
+            <p>Truly, Master Speaker, if you will be friends with me, and pardon past Injuries and Affronts, your son, if you have ever a one undisposed of, shall marry my daughter; neither will I any more cause Brick-bats to be throwne at your Coach, for which I do now repent from the bottom of my heart.</p>
+            <p>Sir, I am willing to conform, for I see there is
+<pb n="5" facs="tcp:119311:3"/>no good to be done this bout; and therefore I have set down some few Articles, which it the Parliament will approve of, I shall with all rea<g ref="char:EOLhyphen"/>diness subscribe my self their <hi>Humble Servant,</hi> as I did in my Letters out of <hi>Cheshire.</hi>
+            </p>
+            <p n="1">I. That I may have Liberty of Conscience al<g ref="char:EOLhyphen"/>lowed me to break any Oath or Protestation that I shall make to them, when it shall be con<g ref="char:EOLhyphen"/>venient for me to lay hold of another oppor<g ref="char:EOLhyphen"/>tunity.</p>
+            <p n="2">II. That Sir <hi>Arthur Hesilrig</hi> may be confined to <hi>Carisbrook</hi> Castle, and thence be brought to <hi>Windsor,</hi> from thence to <hi>Westminster</hi> Hall, thence to the Banquetting-House, and that he be before one of the Windows of that place removed out of my sight.</p>
+            <p n="3">III. That Colonel <hi>Morley</hi> be bound over to the next Quarter-Sessions, for offering to lift up his Pistol at me.</p>
+            <p n="4">IV. That I may have another Jewel sent me, for
+<pb n="6" facs="tcp:119311:4"/>the good service I did in the day that I turn'd away your Excellencies Coach, and for the great pains I have taken ever since.</p>
+            <p n="5">V. That the Debts which I have contracted in the Management of this New Design, may be all put upon the Publique Accompt, to be paid when the <hi>Protectors Funeral</hi> is paid for.</p>
+            <p n="6">VI. That there may be as many Commanders to welcome me home, as there were to take their leaves of me when I departed from <hi>Wallingford</hi> House.</p>
+            <p n="7">VII. And lastly, That I may have liberty to carry on another Design, to turn them out again when the Lord shall enable me.</p>
+            <p>Sir, If these Conditions will not be accepted, I desire you to send me word what they would have me to do; for considering the condition I am in, I am very willing to Treat, and I shall yield to any thing in reason; but to loose a <hi>Head,</hi> and a <hi>Wimbleton</hi> House, onely for going into the North, and Quartering about <hi>Newcastle,</hi> I pro<g ref="char:EOLhyphen"/>fess,
+<pb n="7" facs="tcp:119311:4"/>Master Speaker, it were a very hard case. Sir, I shall rely not onely on your courtesie, but upon your compassion; Therefore be pleased to use your utmost endeavor for me, and it shall thank<g ref="char:EOLhyphen"/>fully be acknowledged for a whole week together by,</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>
+                  <hi>Your most unfortunate Servant,</hi> J. Lambert.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>Post-script.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>BE pleased to acquaint my Lady, That I have some extraordinary Occasions lately fallen out here in the Contrey, so that I shall be forc'd to tarry a fortnight longer then I expected.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
